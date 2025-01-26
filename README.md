@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **parasharprateek6423@gmail.com**
 
-- ⚡ Fun fact **I play competetive FPS to " calm " down**
+- ⚡ Fun fact **I play competitive FPS to " calm " down**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
