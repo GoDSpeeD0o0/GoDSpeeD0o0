@@ -20,16 +20,35 @@
 
 ## 🧠 About Me
 
-```python
-prateek = {
-    "degree"   : "M.S. Data Science, Analytics & Engineering @ ASU  (Dec 2026)",
-    "gpa"      : 4.00,
-    "focus"    : ["GenAI Systems", "LLM Optimization", "Diffusion Models", "Data Pipelines"],
-    "wins"     : {"-41% inference time": "Faster Diffusion", "+21% retention": "Cross-browser opt."},
-    "hobbies"  : ["Competitive FPS (it's called 'calming down')", "3 AM rabbit holes"],
-    "open_to"  : "AI Engineering & Data Science roles  —  let's build something real",
-}
-```
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**M.S. Data Science, Analytics & Engineering**
+Arizona State University · Dec 2026 · **4.0 GPA**
+
+I spend my days wrangling transformers, optimizing diffusion pipelines, and convincing LLMs to behave. Currently deep into GenAI systems — from fine-tuning to production serving.
+
+When I'm not cutting inference latency, I'm rage-queuing ranked FPS and insisting *"one more game"* at 3 AM.
+
+📍 Tempe, Arizona &nbsp;|&nbsp; 🎯 Open to AI Engineering & Data Science roles
+
+</td>
+<td width="45%" valign="top">
+
+**Currently focused on**
+&nbsp; 🔬 &nbsp; LLM Fine-tuning & Inference Optimization
+&nbsp; 🔗 &nbsp; RAG Pipelines & Agent Orchestration
+&nbsp; ☁️ &nbsp; MLOps · Containerization · Cloud Infra
+
+**Quick wins**
+&nbsp; ⚡ &nbsp; −41% inference time on diffusion models
+&nbsp; 📊 &nbsp; 5+ Power BI dashboards shipped
+&nbsp; 📈 &nbsp; +21% user retention via frontend opt.
+
+</td>
+</tr>
+</table>
 
 ---
 
