@@ -97,14 +97,13 @@ prateek = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=GoDSpeeD0o0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6366f1&text_color=c9d1d9&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoDSpeeD0o0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=GoDSpeeD0o0&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=6366f1&currStreakLabel=a78bfa&dates=6366f1)](https://github.com/GoDSpeeD0o0)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GoDSpeeD0o0&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=6366f1&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+[![Prateek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GoDSpeeD0o0&bg_color=0d1117&color=a78bfa&line=6366f1&point=ffffff&area=true&hide_border=true)](https://github.com/GoDSpeeD0o0)
 
 </div>
 
