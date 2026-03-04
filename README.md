@@ -20,35 +20,21 @@
 
 ## 🧠 About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-**M.S. Data Science, Analytics & Engineering**
-Arizona State University · Dec 2026 · **4.0 GPA**
+M.S. Data Science, Analytics & Engineering &nbsp;·&nbsp; Arizona State University &nbsp;·&nbsp; Dec 2026 &nbsp;·&nbsp; **4.0 GPA**
 
 I spend my days wrangling transformers, optimizing diffusion pipelines, and convincing LLMs to behave. Currently deep into GenAI systems — from fine-tuning to production serving.
 
 When I'm not cutting inference latency, I'm rage-queuing ranked FPS and insisting *"one more game"* at 3 AM.
 
-📍 Tempe, Arizona &nbsp;|&nbsp; 🎯 Open to AI Engineering & Data Science roles
+&nbsp;
 
-</td>
-<td width="45%" valign="top">
+| 🔭 Currently Exploring | ⚡ Quick Wins |
+|---|---|
+| 🔬 LLM Fine-tuning & Inference Optimization | −41% inference time on diffusion models |
+| 🔗 RAG Pipelines & Agent Orchestration | 5+ Power BI dashboards shipped |
+| ☁️ MLOps · Containerization · Cloud Infra | +21% user retention via frontend opt. |
 
-**Currently focused on**
-&nbsp; 🔬 &nbsp; LLM Fine-tuning & Inference Optimization
-&nbsp; 🔗 &nbsp; RAG Pipelines & Agent Orchestration
-&nbsp; ☁️ &nbsp; MLOps · Containerization · Cloud Infra
-
-**Quick wins**
-&nbsp; ⚡ &nbsp; −41% inference time on diffusion models
-&nbsp; 📊 &nbsp; 5+ Power BI dashboards shipped
-&nbsp; 📈 &nbsp; +21% user retention via frontend opt.
-
-</td>
-</tr>
-</table>
+📍 Tempe, Arizona &nbsp;·&nbsp; 🎯 Open to **AI Engineering & Data Science** roles
 
 ---
 
